@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+	  <TargetFramework>net6.0</TargetFramework>
+	  <PackageLicenseFile>C:\Users\john9\source\repos\John93562\ManageCustomers\Licensing\LICENSE.txt</PackageLicenseFile>
+  </PropertyGroup>
+
+</Project>
